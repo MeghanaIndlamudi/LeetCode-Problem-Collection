@@ -29,6 +29,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
+| [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Matrix
 |  |
@@ -58,4 +59,20 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Math
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
