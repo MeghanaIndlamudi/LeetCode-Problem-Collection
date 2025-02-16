@@ -30,6 +30,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | ------- |
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
@@ -82,5 +83,6 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
