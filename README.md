@@ -34,6 +34,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -78,6 +79,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
 |  |
@@ -92,6 +94,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -123,4 +126,8 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
