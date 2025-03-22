@@ -10,6 +10,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -17,12 +18,14 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2793-count-the-number-of-complete-components](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2793-count-the-number-of-complete-components](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
@@ -30,6 +33,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0684-redundant-connection](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0684-redundant-connection) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2793-count-the-number-of-complete-components](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Array
 |  |
