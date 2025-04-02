@@ -61,6 +61,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2681-put-marbles-in-bags](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2681-put-marbles-in-bags) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3430-count-days-without-meetings) |
