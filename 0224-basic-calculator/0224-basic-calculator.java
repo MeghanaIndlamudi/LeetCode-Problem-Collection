@@ -1,32 +1,23 @@
 class Solution {
+    int idx; 
     public int calculate(String s) {
-        int number = 0;
-        int signValue = 1;
-        int result = 0;
-        Stack<Integer> operationsStack = new Stack<>();
-
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-
-            if (Character.isDigit(c)) {
-                number = number * 10 + (c - '0');
-            } else if (c == '+' || c == '-') {
-                result += number * signValue;
-                signValue = (c == '-') ? -1 : 1;
-                number = 0;
-            } else if (c == '(') {
-                operationsStack.push(result);
-                operationsStack.push(signValue);
-                result = 0;
-                signValue = 1;
-            } else if (c == ')') {
-                result += signValue * number;
-                result *= operationsStack.pop();
-                result += operationsStack.pop();
-                number = 0;
+        idx = 0; 
+        return calc(s);
+    }
+    
+    private int calc(String s) {
+        int res = 0, num = 0, sign = 1;
+        while (idx < s.length()) {
+            char c = s.charAt(idx++);
+            if (c >= '0' && c <= '9') num = num * 10 + c - '0';
+            else if (c == '(') num = calc(s); 
+            else if (c == ')') return res + sign * num;
+            else if (c == '+' || c == '-') { 
+                res += sign * num;
+                num = 0;
+                sign = c == '-' ? -1 : 1;
             }
         }
-
-        return result + number * signValue;
+        return res + sign * num; 
     }
 }
