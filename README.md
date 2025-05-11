@@ -48,6 +48,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1293-three-consecutive-odds](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1293-three-consecutive-odds) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1656-count-good-triplets) |
