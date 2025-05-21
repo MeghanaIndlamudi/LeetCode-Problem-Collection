@@ -43,6 +43,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0073-set-matrix-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
@@ -83,6 +84,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -117,6 +119,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0905-length-of-longest-fibonacci-subsequence) |
