@@ -35,6 +35,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0684-redundant-connection) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -128,6 +129,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -199,6 +201,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1160-letter-tile-possibilities) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
@@ -236,6 +239,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1170-shortest-common-supersequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2262-solving-questions-with-brainpower) |
 | [3637-count-number-of-balanced-permutations](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3637-count-number-of-balanced-permutations) |
@@ -283,6 +287,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Topological Sort
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
@@ -315,4 +320,8 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
