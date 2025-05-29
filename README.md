@@ -13,6 +13,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
