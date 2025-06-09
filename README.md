@@ -6,6 +6,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -352,4 +353,8 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
