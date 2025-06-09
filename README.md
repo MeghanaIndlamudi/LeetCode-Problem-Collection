@@ -357,4 +357,5 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
