@@ -120,6 +120,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3637-count-number-of-balanced-permutations](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2915-count-of-interesting-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3643-zero-array-transformation-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1656-count-good-triplets](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Recursion
 |  |
 | ------- |
