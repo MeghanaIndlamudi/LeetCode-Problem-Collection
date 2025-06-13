@@ -82,6 +82,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2681-put-marbles-in-bags](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -241,6 +242,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2456-construct-smallest-number-from-di-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2681-put-marbles-in-bags) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Tree
@@ -307,6 +309,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
