@@ -201,6 +201,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3637-count-number-of-balanced-permutations](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Design
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [3637-count-number-of-balanced-permutations](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Linked List
 |  |
 | ------- |
