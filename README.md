@@ -54,6 +54,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0135-candy) |
 | [0416-partition-equal-subset-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0416-partition-equal-subset-sum) |
@@ -294,6 +295,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0768-partition-labels](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2551-apply-operations-to-an-array) |
