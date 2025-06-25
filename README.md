@@ -57,6 +57,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0797-rabbits-in-forest) |
@@ -148,6 +149,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0169-majority-element) |
 | [0768-partition-labels](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -172,6 +174,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0169-majority-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -240,6 +243,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1160-letter-tile-possibilities) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2308-divide-array-into-equal-pairs) |
@@ -281,6 +285,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
