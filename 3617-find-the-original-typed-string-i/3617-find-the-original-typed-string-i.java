@@ -1,11 +1,6 @@
 class Solution {
     public int possibleStringCount(String word) {
-        if(word.isEmpty())
-        {
-            return 0;
-        }
-        else
-        {
+        
             int count=1;
            for(int i=1;i<word.length();i++)
            {
@@ -15,6 +10,5 @@ class Solution {
             }
            }
            return word.length()-count+1; 
-        }
     }
 }
