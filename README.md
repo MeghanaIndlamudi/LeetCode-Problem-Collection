@@ -126,6 +126,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1170-shortest-common-supersequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -143,6 +144,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0224-basic-calculator) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -279,6 +281,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0797-rabbits-in-forest](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0797-rabbits-in-forest) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
