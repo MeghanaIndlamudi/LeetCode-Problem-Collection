@@ -60,6 +60,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0169-majority-element](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
@@ -117,6 +118,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -158,6 +160,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2551-apply-operations-to-an-array) |
