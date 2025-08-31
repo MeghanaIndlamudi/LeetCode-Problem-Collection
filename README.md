@@ -55,6 +55,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0169-majority-element) |
@@ -117,6 +118,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
@@ -169,6 +171,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0594-longest-harmonious-subsequence) |
@@ -268,6 +271,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0037-sudoku-solver) |
 | [1160-letter-tile-possibilities](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2456-construct-smallest-number-from-di-string) |
