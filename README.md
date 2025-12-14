@@ -138,6 +138,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -238,6 +239,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2050-count-good-numbers) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -344,6 +346,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2262-solving-questions-with-brainpower) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
