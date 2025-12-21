@@ -68,6 +68,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1293-three-consecutive-odds](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1293-three-consecutive-odds) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
@@ -130,6 +131,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | ------- |
 | [0224-basic-calculator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0224-basic-calculator) |
 | [0768-partition-labels](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0768-partition-labels) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1160-letter-tile-possibilities) |
@@ -299,6 +301,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0135-candy](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0797-rabbits-in-forest) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1818-maximum-score-from-removing-substrings) |
