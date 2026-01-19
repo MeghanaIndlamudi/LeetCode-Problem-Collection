@@ -69,6 +69,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1293-three-consecutive-odds) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
@@ -125,6 +126,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0073-set-matrix-zeroes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## String
@@ -270,6 +272,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -390,6 +393,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Binary Search
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2394-count-subarrays-with-score-less-than-k) |
