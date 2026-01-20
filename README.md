@@ -105,6 +105,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3430-count-days-without-meetings) |
@@ -410,6 +411,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2308-divide-array-into-equal-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3600-find-the-k-th-character-in-string-game-i) |
