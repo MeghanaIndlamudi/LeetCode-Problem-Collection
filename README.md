@@ -120,6 +120,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3637-trionic-array-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3721-longest-balanced-subarray-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -210,6 +211,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3606-coupon-code-validator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3721-longest-balanced-subarray-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -285,6 +287,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2915-count-of-interesting-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3643-zero-array-transformation-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Backtracking
 |  |
@@ -347,6 +350,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0023-merge-k-sorted-lists](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [3721-longest-balanced-subarray-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -480,4 +484,8 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
