@@ -349,6 +349,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3721-longest-balanced-subarray-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
@@ -416,6 +417,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0190-reverse-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2478-longest-nice-subarray) |
