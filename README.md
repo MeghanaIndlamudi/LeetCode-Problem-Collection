@@ -138,6 +138,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0224-basic-calculator) |
+| [0696-count-binary-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0768-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -374,6 +375,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0283-move-zeroes) |
+| [0696-count-binary-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0768-partition-labels) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
