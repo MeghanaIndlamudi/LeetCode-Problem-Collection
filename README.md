@@ -112,6 +112,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3430-count-days-without-meetings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3430-count-days-without-meetings) |
 | [3453-separate-squares-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3453-separate-squares-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -138,6 +139,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## String
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2262-solving-questions-with-brainpower) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
