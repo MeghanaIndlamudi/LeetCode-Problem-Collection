@@ -146,6 +146,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0224-basic-calculator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0224-basic-calculator) |
 | [0696-count-binary-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0796-rotate-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -502,4 +503,8 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [3721-longest-balanced-subarray-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3721-longest-balanced-subarray-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
