@@ -1,17 +1,20 @@
 class Solution {
     public int maximumJumps(int[] nums, int target) {
-       int n = nums.length;
-       int[] dp = new int[n + 1];
-       Arrays.fill(dp, -1);
-        dp[0] = 0;
-       for(int i = 1; i < n; i++) {
-           for(int j = 0; j < i; j++) {
-               if(Math.abs(nums[j] - nums[i]) <= target && dp[j] != -1) {
-                   dp[i] = Math.max(dp[i], dp[j] + 1);
-               }
-           }
-       }
-        
-       return dp[n - 1]; 
+        int n = nums.length;
+        int[] maxJumps = new int[n];
+        maxJumps[0] = 0;
+
+        for(int j = 1 ; j < n ; j++) {
+            int maximum = -1;
+            for(int i = 0 ; i < j ; i++) {  
+                if((long) nums[j] >= (long) nums[i] - (long) target && (long) nums[j] <= (long) nums[i] + (long) target && (maxJumps[i] != -1)) 
+                    maximum = Math.max(maximum, maxJumps[i] + 1);
+            }
+            maxJumps[j] = maximum;
+        }
+
+        System.out.println(Arrays.toString(maxJumps));
+
+        return maxJumps[n-1];
     }
 }
