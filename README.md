@@ -83,6 +83,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1813-maximum-erasure-value](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1914-cyclically-rotating-a-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1914-cyclically-rotating-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -137,6 +138,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1914-cyclically-rotating-a-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1914-cyclically-rotating-a-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -186,6 +188,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0498-diagonal-traverse) |
+| [1914-cyclically-rotating-a-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1914-cyclically-rotating-a-grid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2551-apply-operations-to-an-array) |
