@@ -103,6 +103,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2699-count-the-number-of-fair-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2915-count-of-interesting-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2915-count-of-interesting-subarrays) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
@@ -377,6 +378,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2262-solving-questions-with-brainpower) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
