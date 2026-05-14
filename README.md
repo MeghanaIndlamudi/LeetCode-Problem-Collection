@@ -106,6 +106,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2784-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2915-count-of-interesting-subarrays) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
@@ -219,6 +220,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2784-check-if-array-is-good](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2784-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2915-count-of-interesting-subarrays) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -244,6 +246,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2784-check-if-array-is-good](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2784-check-if-array-is-good) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3430-count-days-without-meetings) |
 | [3606-coupon-code-validator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3606-coupon-code-validator) |
