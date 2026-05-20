@@ -1,11 +1,29 @@
 class Solution {
-        public int[] findThePrefixCommonArray(int[] A, int[] B) {
-        int cur = 0, n = A.length, res[] = new int[n], seen[] = new int[n + 1];
-        for (int i = 0; i < n; ++i) {
-            if (++seen[A[i]] == 2) cur++;
-            if (++seen[B[i]] == 2) cur++;
-            res[i] = cur;
+
+    public int[] findThePrefixCommonArray(int[] A, int[] B) {
+        int n = A.length;
+        int[] prefixCommonArray = new int[n];
+
+        // Loop through each index to calculate common elements for each prefix
+        for (int currentIndex = 0; currentIndex < n; ++currentIndex) {
+            int commonCount = 0;
+
+            // Compare elements in A and B within the range of current prefix
+            for (int aIndex = 0; aIndex <= currentIndex; ++aIndex) {
+                for (int bIndex = 0; bIndex <= currentIndex; ++bIndex) {
+                    // Check if elements match, and count if they do
+                    if (A[aIndex] == B[bIndex]) {
+                        ++commonCount;
+                        break; // Prevent counting duplicates
+                    }
+                }
+            }
+
+            // Store the count of common elements for the current prefix
+            prefixCommonArray[currentIndex] = commonCount;
         }
-        return res;
+
+        // Return the final array with counts of common elements in each prefix
+        return prefixCommonArray;
     }
 }
