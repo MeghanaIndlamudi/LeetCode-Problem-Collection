@@ -101,6 +101,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2553-separate-the-digits-in-an-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2553-separate-the-digits-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2681-put-marbles-in-bags](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -219,6 +220,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2308-divide-array-into-equal-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2784-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2915-count-of-interesting-subarrays) |
@@ -445,6 +447,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2308-divide-array-into-equal-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
