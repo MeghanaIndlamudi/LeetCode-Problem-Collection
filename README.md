@@ -162,6 +162,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-jump-game-vii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1871-jump-game-vii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -305,6 +306,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1871-jump-game-vii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1871-jump-game-vii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2915-count-of-interesting-subarrays) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -387,6 +389,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1871-jump-game-vii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1871-jump-game-vii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -422,6 +425,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1813-maximum-erasure-value) |
+| [1871-jump-game-vii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1871-jump-game-vii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
