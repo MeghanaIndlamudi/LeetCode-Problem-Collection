@@ -115,6 +115,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -286,6 +287,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2998-count-symmetric-integers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
