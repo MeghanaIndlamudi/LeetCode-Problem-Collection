@@ -127,6 +127,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3606-coupon-code-validator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3643-zero-array-transformation-ii) |
@@ -257,6 +258,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3430-count-days-without-meetings) |
 | [3606-coupon-code-validator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -356,6 +358,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -417,6 +420,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
@@ -451,6 +455,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2699-count-the-number-of-fair-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3453-separate-squares-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3453-separate-squares-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
