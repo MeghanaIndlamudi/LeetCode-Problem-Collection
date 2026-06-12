@@ -15,6 +15,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -128,6 +129,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3606-coupon-code-validator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -299,6 +301,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -380,6 +383,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -418,6 +422,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3637-count-number-of-balanced-permutations) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
@@ -484,6 +489,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
