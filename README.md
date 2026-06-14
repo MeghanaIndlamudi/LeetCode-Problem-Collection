@@ -194,6 +194,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0224-basic-calculator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0224-basic-calculator) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
@@ -433,6 +434,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0696-count-binary-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0768-partition-labels) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2551-apply-operations-to-an-array) |
@@ -535,6 +537,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0023-merge-k-sorted-lists) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
