@@ -85,6 +85,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1813-maximum-erasure-value](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1840-maximum-building-height](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1840-maximum-building-height) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1914-cyclically-rotating-a-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1914-cyclically-rotating-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -259,6 +260,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1840-maximum-building-height) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -289,6 +291,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1840-maximum-building-height](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1840-maximum-building-height) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2050-count-good-numbers) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
