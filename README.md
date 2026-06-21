@@ -85,6 +85,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1813-maximum-erasure-value](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1840-maximum-building-height) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1914-cyclically-rotating-a-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1914-cyclically-rotating-a-grid) |
@@ -260,6 +261,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1840-maximum-building-height) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -367,6 +369,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1833-maximum-ice-cream-bars) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -568,4 +571,8 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0796-rotate-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
