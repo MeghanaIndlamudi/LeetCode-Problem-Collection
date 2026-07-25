@@ -272,6 +272,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2784-check-if-array-is-good](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2784-check-if-array-is-good) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3430-count-days-without-meetings) |
+| [3536-maximum-product-of-two-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -308,6 +309,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3600-find-the-k-th-character-in-string-game-i) |
