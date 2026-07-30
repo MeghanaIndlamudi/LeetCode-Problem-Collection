@@ -180,6 +180,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2456-construct-smallest-number-from-di-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3396-valid-word](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -307,6 +308,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3536-maximum-product-of-two-digits) |
@@ -379,6 +381,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
