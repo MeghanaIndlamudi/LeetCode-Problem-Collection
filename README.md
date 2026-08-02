@@ -67,6 +67,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0594-longest-harmonious-subsequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0854-making-a-large-island) |
+| [0877-stone-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -292,6 +293,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | ------- |
 | [0224-basic-calculator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0224-basic-calculator) |
 | [0797-rabbits-in-forest](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0797-rabbits-in-forest) |
+| [0877-stone-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0877-stone-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -420,6 +422,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0416-partition-equal-subset-sum) |
+| [0877-stone-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1170-shortest-common-supersequence) |
@@ -580,4 +583,8 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1833-maximum-ice-cream-bars) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
