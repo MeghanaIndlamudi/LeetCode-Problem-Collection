@@ -76,6 +76,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1293-three-consecutive-odds) |
 | [1340-jump-game-v](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1406-stone-game-iii) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -294,6 +295,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0224-basic-calculator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0224-basic-calculator) |
 | [0797-rabbits-in-forest](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0797-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1406-stone-game-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -427,6 +429,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0934-bitwise-ors-of-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1170-shortest-common-supersequence) |
 | [1340-jump-game-v](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1406-stone-game-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -587,4 +590,5 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
