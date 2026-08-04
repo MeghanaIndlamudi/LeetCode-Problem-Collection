@@ -143,6 +143,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3689-maximum-total-subarray-value-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3731-find-missing-elements) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -251,6 +252,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3721-longest-balanced-subarray-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -279,6 +281,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3606-coupon-code-validator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
