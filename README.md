@@ -300,6 +300,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0877-stone-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1406-stone-game-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1477-product-of-the-last-k-numbers) |
+| [1510-stone-game-iv](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1510-stone-game-iv) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1840-maximum-building-height](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1840-maximum-building-height) |
@@ -433,6 +434,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1170-shortest-common-supersequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1170-shortest-common-supersequence) |
 | [1340-jump-game-v](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1510-stone-game-iv) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -594,4 +596,21 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | ------- |
 | [0877-stone-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
