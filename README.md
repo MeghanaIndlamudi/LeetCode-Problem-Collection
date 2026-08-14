@@ -184,6 +184,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -246,6 +247,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2784-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2915-count-of-interesting-subarrays) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3606-coupon-code-validator) |
@@ -484,6 +486,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
