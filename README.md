@@ -179,6 +179,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-jump-game-vii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1927-sum-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -310,6 +311,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1840-maximum-building-height](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1840-maximum-building-height) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1927-sum-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1927-sum-game) |
 | [2050-count-good-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2050-count-good-numbers) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -388,6 +390,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1727-largest-submatrix-with-rearrangements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1927-sum-game) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -608,6 +611,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [0877-stone-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
