@@ -196,6 +196,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3617-find-the-original-typed-string-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3617-find-the-original-typed-string-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -477,6 +478,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -556,6 +558,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2202-sum-of-k-mirror-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2998-count-symmetric-integers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
