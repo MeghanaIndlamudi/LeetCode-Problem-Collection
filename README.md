@@ -118,6 +118,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2784-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2915-count-of-interesting-subarrays) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -282,6 +283,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2681-put-marbles-in-bags](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2784-check-if-array-is-good](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2784-check-if-array-is-good) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3430-count-days-without-meetings) |
 | [3536-maximum-product-of-two-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3536-maximum-product-of-two-digits) |
@@ -631,4 +633,8 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1510-stone-game-iv) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
