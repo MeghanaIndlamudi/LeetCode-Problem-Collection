@@ -92,6 +92,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1914-cyclically-rotating-a-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1914-cyclically-rotating-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -394,6 +395,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
