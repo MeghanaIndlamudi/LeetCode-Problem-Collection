@@ -29,6 +29,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2793-count-the-number-of-complete-components) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
@@ -138,6 +139,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3483-alternating-groups-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3606-coupon-code-validator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -165,6 +167,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2915-count-of-interesting-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2915-count-of-interesting-subarrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -535,6 +539,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
