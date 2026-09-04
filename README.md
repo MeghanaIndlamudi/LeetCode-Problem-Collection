@@ -154,6 +154,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -369,6 +370,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3643-zero-array-transformation-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3643-zero-array-transformation-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3721-longest-balanced-subarray-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3903-smallest-stable-index-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3903-smallest-stable-index-i) |
 ## Backtracking
 |  |
 | ------- |
