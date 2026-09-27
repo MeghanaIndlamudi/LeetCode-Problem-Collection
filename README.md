@@ -183,6 +183,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1170-shortest-common-supersequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -212,6 +213,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0224-basic-calculator) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -651,4 +653,8 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
