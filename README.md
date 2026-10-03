@@ -174,6 +174,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0224-basic-calculator) |
 | [0696-count-binary-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0768-partition-labels) |
@@ -212,6 +213,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0224-basic-calculator) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -453,6 +455,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0032-longest-valid-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0416-partition-equal-subset-sum) |
 | [0877-stone-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -656,5 +659,6 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
