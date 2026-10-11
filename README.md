@@ -102,6 +102,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2262-solving-questions-with-brainpower](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2308-divide-array-into-equal-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -290,6 +291,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1833-maximum-ice-cream-bars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1840-maximum-building-height) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -309,6 +311,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/0023-merge-k-sorted-lists) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2681-put-marbles-in-bags) |
@@ -411,6 +414,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1833-maximum-ice-cream-bars](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -527,6 +531,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
