@@ -358,6 +358,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Design
 |  |
@@ -432,6 +433,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3689-maximum-total-subarray-value-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3689-maximum-total-subarray-value-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Tree
 |  |
 | ------- |
