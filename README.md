@@ -135,6 +135,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3430-count-days-without-meetings](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3430-count-days-without-meetings) |
 | [3453-separate-squares-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3453-separate-squares-i) |
@@ -349,6 +350,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -514,6 +516,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2610-closest-prime-numbers-in-range](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3001-apply-operations-to-maximize-score) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
 | ------- |
@@ -527,6 +530,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2747-count-zero-request-servers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -590,6 +594,7 @@ A personal collection of solutions to LeetCode problems that I've solved. This r
 | [2202-sum-of-k-mirror-numbers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/2998-count-symmetric-integers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MeghanaIndlamudi/LeetCode-Problem-Collection/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
